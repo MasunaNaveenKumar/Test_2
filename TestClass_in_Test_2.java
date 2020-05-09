@@ -4,5 +4,6 @@ class TestClass_in_Test_2
 	{
 		System.out.println("In Test_2 repository");
 		System.out.println("one");
+		System.out.println("two");
 	}
 }
